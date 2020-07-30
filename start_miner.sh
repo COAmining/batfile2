@@ -1,1 +1,1 @@
-/home/coa/cob/PhoenixMiner_5.0e_Linux/PhoenixMiner -pool asia1.ethermine.org:14444 -wal 0xeDF1fbD70cCdD83e19fdDc5BAb319312dbf88B6F.0700 -pool2 asia1.ethermine.org:14444 -pass x -worker 0700 -proto 2 -log 0
+/home/coa/cob/PhoenixMiner_5.0e_Linux/PhoenixMiner -pool 175.201.47.77:33456 -wal 0xeDF1fbD70cCdD83e19fdDc5BAb319312dbf88B6F.0700 -pool2 asia1.ethermine.org:14444 -pass zil1ncps6a2t65wdj9az9tektsxsh4ncqqe3qqmtcg@asia1.ethermine.org:14444 -worker 0700 -proto 2 -log 0 -ptimeout 60 -wdog 0
